@@ -39,7 +39,7 @@ const MSG = {
   passwordRequired:  'Password required',
   passwordInvalid:   'Password has to be from 8 to 15 characters long and contain at least one integer, one capital, and one small letter',
   repeatPwdRequired: 'Re-enter password required',
-  repeatPwdMismatch: 'Passwords do not match.',
+  repeatPwdMismatch: 'Passwords do not match',
 };
 
 const VALID = { name: 'John', lastName: 'Doe', password: 'Password1' };
