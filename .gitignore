@@ -6,5 +6,8 @@ node_modules/
 /playwright/.cache/
 /playwright/.auth/
 
-# Environment variables — never commit real secrets
+# Saved browser auth state — contains session cookies, never commit
+.auth/
+
+# Environment variables — contains secrets, never commit
 .env
